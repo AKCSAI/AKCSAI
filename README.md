@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AKCSAI
-- 👀 I’m interested in AI & Cybersecurity
-- 🌱 I’m working with Python & SQL 
-- 💞️ I’m looking to collaborate on AI Projects
+- 👀 I’m interested in AI, DE, DS & SC
+- 🌱 I work with Python & SQL 
+- 💞️ I work on GenAI & CS Projects
 - 📫 You can reach me here at GitHub!
 - ⚡ Fun fact: I learned QBasic as a kid!
 
